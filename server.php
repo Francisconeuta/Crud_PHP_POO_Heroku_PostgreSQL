@@ -38,7 +38,7 @@
 
     //conectar con la base de datos
 
-    $db = pg_connect("host=ec2-174-129-206-173.compute-1.amazonaws.com port=5432 dbname=d2oaf061dbl65i user=chykwwejhjedvl password=f8aad8b00e6d9665e459f23546f8d67dc622657d4390636a8358c03ba0dc1c4a");
+    $db = pg_connect("host=ec2-54-243-210-70.compute-1.amazonaws.com port=5432 dbname=dea32ll70rqpck user=njbnxdyppltdft password=fb287d93df1a77681fd05dda819b572f418242206676f95e05ee8164072dbc87");
 
     // si se presiona el boton save de el formulario
 
