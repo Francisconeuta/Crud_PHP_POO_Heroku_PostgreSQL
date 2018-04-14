@@ -36,8 +36,7 @@
     <title> MI primer CRUD</title>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="css/estilos.css">
-    <link rel="stylesheet" type="text/css" href="css/semantic.min.css">
-    <!--    //SEMANTIC UI CON  JQUERY-->
+ 
 
     
 
